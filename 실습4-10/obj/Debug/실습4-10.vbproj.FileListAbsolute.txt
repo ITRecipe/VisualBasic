@@ -1,0 +1,11 @@
+C:\Users\h\source\repos\실습4-10\bin\Debug\실습4-10.exe.config
+C:\Users\h\source\repos\실습4-10\bin\Debug\실습4-10.exe
+C:\Users\h\source\repos\실습4-10\bin\Debug\실습4-10.pdb
+C:\Users\h\source\repos\실습4-10\bin\Debug\실습4-10.xml
+C:\Users\h\source\repos\실습4-10\obj\Debug\실습4_10.Form1.resources
+C:\Users\h\source\repos\실습4-10\obj\Debug\실습4_10.Resources.resources
+C:\Users\h\source\repos\실습4-10\obj\Debug\실습4-10.vbproj.GenerateResource.cache
+C:\Users\h\source\repos\실습4-10\obj\Debug\실습4-10.vbproj.CoreCompileInputs.cache
+C:\Users\h\source\repos\실습4-10\obj\Debug\실습4-10.exe
+C:\Users\h\source\repos\실습4-10\obj\Debug\실습4-10.xml
+C:\Users\h\source\repos\실습4-10\obj\Debug\실습4-10.pdb

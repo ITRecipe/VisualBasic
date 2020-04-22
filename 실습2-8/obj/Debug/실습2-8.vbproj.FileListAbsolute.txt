@@ -1,0 +1,11 @@
+C:\Users\h\source\repos\실습2-8\bin\Debug\실습2-8.exe.config
+C:\Users\h\source\repos\실습2-8\bin\Debug\실습2-8.exe
+C:\Users\h\source\repos\실습2-8\bin\Debug\실습2-8.pdb
+C:\Users\h\source\repos\실습2-8\bin\Debug\실습2-8.xml
+C:\Users\h\source\repos\실습2-8\obj\Debug\실습2-8.vbprojAssemblyReference.cache
+C:\Users\h\source\repos\실습2-8\obj\Debug\실습2_8.Resources.resources
+C:\Users\h\source\repos\실습2-8\obj\Debug\실습2-8.vbproj.GenerateResource.cache
+C:\Users\h\source\repos\실습2-8\obj\Debug\실습2-8.vbproj.CoreCompileInputs.cache
+C:\Users\h\source\repos\실습2-8\obj\Debug\실습2-8.exe
+C:\Users\h\source\repos\실습2-8\obj\Debug\실습2-8.xml
+C:\Users\h\source\repos\실습2-8\obj\Debug\실습2-8.pdb

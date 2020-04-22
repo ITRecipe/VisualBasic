@@ -1,0 +1,11 @@
+C:\Users\h\source\repos\실습2-6\bin\Debug\실습2-6.exe.config
+C:\Users\h\source\repos\실습2-6\bin\Debug\실습2-6.exe
+C:\Users\h\source\repos\실습2-6\bin\Debug\실습2-6.pdb
+C:\Users\h\source\repos\실습2-6\bin\Debug\실습2-6.xml
+C:\Users\h\source\repos\실습2-6\obj\Debug\실습2-6.vbprojAssemblyReference.cache
+C:\Users\h\source\repos\실습2-6\obj\Debug\실습2_6.Resources.resources
+C:\Users\h\source\repos\실습2-6\obj\Debug\실습2-6.vbproj.GenerateResource.cache
+C:\Users\h\source\repos\실습2-6\obj\Debug\실습2-6.vbproj.CoreCompileInputs.cache
+C:\Users\h\source\repos\실습2-6\obj\Debug\실습2-6.exe
+C:\Users\h\source\repos\실습2-6\obj\Debug\실습2-6.xml
+C:\Users\h\source\repos\실습2-6\obj\Debug\실습2-6.pdb
